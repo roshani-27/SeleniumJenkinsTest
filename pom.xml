@@ -16,18 +16,7 @@
 <artifactId>selenium-java</artifactId> 
 <version>4.21.0</version> 
 </dependency> 
- 
-SeleniumJenkinsTest 
- ├── pom.xml 
- └── src 
-     └── test 
-         └── java 
-             └── example 
-                 └── NewTest.java 
-  
-R. C. Patel Institute of Technology, Shirpur                                                                                                             Page 3 of 9 
- 
-<dependency> 
+ <dependency> 
 <groupId>org.testng</groupId> 
 <artifactId>testng</artifactId> 
 <version>7.10.1</version> 
